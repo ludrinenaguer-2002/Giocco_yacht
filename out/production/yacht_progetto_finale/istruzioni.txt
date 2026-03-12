@@ -1,0 +1,65 @@
+  ===============================================
+  =                ISTRUZIONI GIOCO YACHT      =
+  ===============================================
+
+OBIETTIVO DEL GIOCO:
+
+Ottenere il punteggio più alto completando tutte le categorie
+disponibili lanciando 5 dadi.
+
+REGOLE BASE:
+• Ogni turno hai a disposizione fino a 3 lanci
+• Dopo ogni lancio puoi scegliere quali dadi tenere e quali 
+  rilanciare
+• Dopo l'ultimo lancio devi segnare il punteggio in una 
+  categoria
+• Ogni categoria può essere usata UNA SOLA VOLTA
+
+LE 12 CATEGORIE :
+
+CATEGORIE NUMERICHE (Ones - Sixes):
+  Ones:   Somma di tutti i dadi che mostrano 1
+  Twos:   Somma di tutti i dadi che mostrano 2
+  Threes: Somma di tutti i dadi che mostrano 3
+  Fours:  Somma di tutti i dadi che mostrano 4
+  Fives:  Somma di tutti i dadi che mostrano 5
+  Sixes:  Somma di tutti i dadi che mostrano 6
+
+CATEGORIE SPECIALI:
+  Full House:3 dadi uguali + 2 dadi uguali = somma totale
+  Four of a Kind:Almeno 4 dadi uguali = somma dei 4 dadi
+  Little Straight: 4 dadi consecutivi = 30 punti fissi
+  Big Straight:5 dadi consecutivi = 40 punti fissi
+  Choice:   Qualsiasi combinazione = somma totale
+  Yacht:    5 dadi tutti uguali = 50 punti fissi
+
+  ___________________________________________
+  -            MODALITÀ EXTENDED (AVANZATA)   -
+  --------------------------------------------
+
+La modalità Extended prevede 3 FASI diverse, ognuna con regole 
+speciali:
+
+FASE 1: DOWNWARD
+• DEVI usare le categorie in ordine dall'alto verso il basso
+• Prima Ones, poi Twos, poi Threes, fino a Yacht
+• NON puoi saltare categorie!
+• Max 3 lanci per turno (come normale)
+
+FASE 2: 1st ROLL
+• Hai UN SOLO LANCIO disponibile (NO rilanci!)
+• Ordine libero: puoi scegliere qualsiasi categoria
+• Devi essere molto fortunato O molto strategico
+
+FASE 3: FREE CHOICE
+• Ordine completamente libero
+• Max 3 lanci (come modalità classica)
+• Gioco normale
+
+PUNTEGGIO FINALE:
+Il punteggio finale è la SOMMA di tutte e 3 le fasi.
+Chi ha più punti totali vince!
+
+        -----------------------------------------------------
+        -             BUON DIVERTIMENTO!                     -
+        -----------------------------------------------------

@@ -1,0 +1,164 @@
+========================================
+       RISULTATI PARTITA YACHT
+========================================
+
+Modalità: EXTENDED
+
+Punteggi finali:
+----------------------------------------
+A                    :  258 punti
+N                    :  205 punti
+----------------------------------------
+
+ VINCITORE: A
+   Punteggio: 258 punti
+
+========================================
+
+
+========================================
+      TABELLONI DETTAGLIATI
+========================================
+
+╔═══════════════════════════════════════╗
+║  GIOCATORE: A                       ║
+╚═══════════════════════════════════════╝
+
+┌───────────────────────────────────────┐
+│  FASE: DOWNWARD                     │
+├───────────────────────┬───────────────┤
+│ Categoria             │ Punteggio     │
+├───────────────────────┼───────────────┤
+│ Ones                  │ 1 pt          │
+│ Twos                  │ 4 pt          │
+│ Threes                │ 0 pt          │
+│ Fours                 │ 4 pt          │
+│ Fives                 │ 0 pt          │
+│ Sixes                 │ 12 pt         │
+│ Full House            │ 0 pt          │
+│ Four of a Kind        │ 0 pt          │
+│ Little Straight       │ 0 pt          │
+│ Big Straight          │ 0 pt          │
+│ Choice                │ 15 pt         │
+│ Yacht                 │ 0 pt          │
+├───────────────────────┼───────────────┤
+│ Totale fase           │ 36            │
+└───────────────────────┴───────────────┘
+
+┌───────────────────────────────────────┐
+│  FASE: 1ST ROLL                     │
+├───────────────────────┬───────────────┤
+│ Categoria             │ Punteggio     │
+├───────────────────────┼───────────────┤
+│ Ones                  │ 2 pt          │
+│ Twos                  │ 4 pt          │
+│ Threes                │ 6 pt          │
+│ Fours                 │ 12 pt         │
+│ Fives                 │ 5 pt          │
+│ Sixes                 │ 12 pt         │
+│ Full House            │ 0 pt          │
+│ Four of a Kind        │ 0 pt          │
+│ Little Straight       │ 30 pt         │
+│ Big Straight          │ 40 pt         │
+│ Choice                │ 20 pt         │
+│ Yacht                 │ 0 pt          │
+├───────────────────────┼───────────────┤
+│ Totale fase           │ 131           │
+└───────────────────────┴───────────────┘
+
+┌───────────────────────────────────────┐
+│  FASE: FREE CHOICE                  │
+├───────────────────────┬───────────────┤
+│ Categoria             │ Punteggio     │
+├───────────────────────┼───────────────┤
+│ Ones                  │ 1 pt          │
+│ Twos                  │ 4 pt          │
+│ Threes                │ 6 pt          │
+│ Fours                 │ 8 pt          │
+│ Fives                 │ 5 pt          │
+│ Sixes                 │ 12 pt         │
+│ Full House            │ 0 pt          │
+│ Four of a Kind        │ 0 pt          │
+│ Little Straight       │ 30 pt         │
+│ Big Straight          │ 0 pt          │
+│ Choice                │ 25 pt         │
+│ Yacht                 │ 0 pt          │
+├───────────────────────┼───────────────┤
+│ Totale fase           │ 91            │
+└───────────────────────┴───────────────┘
+
+╔═══════════════════════════════════════╗
+║  TOTALE GENERALE: 258                 ║
+╚═══════════════════════════════════════╝
+
+╔═══════════════════════════════════════╗
+║  GIOCATORE: N                       ║
+╚═══════════════════════════════════════╝
+
+┌───────────────────────────────────────┐
+│  FASE: DOWNWARD                     │
+├───────────────────────┬───────────────┤
+│ Categoria             │ Punteggio     │
+├───────────────────────┼───────────────┤
+│ Ones                  │ 2 pt          │
+│ Twos                  │ 0 pt          │
+│ Threes                │ 0 pt          │
+│ Fours                 │ 0 pt          │
+│ Fives                 │ 5 pt          │
+│ Sixes                 │ 6 pt          │
+│ Full House            │ 0 pt          │
+│ Four of a Kind        │ 0 pt          │
+│ Little Straight       │ 0 pt          │
+│ Big Straight          │ 0 pt          │
+│ Choice                │ 13 pt         │
+│ Yacht                 │ 0 pt          │
+├───────────────────────┼───────────────┤
+│ Totale fase           │ 26            │
+└───────────────────────┴───────────────┘
+
+┌───────────────────────────────────────┐
+│  FASE: 1ST ROLL                     │
+├───────────────────────┬───────────────┤
+│ Categoria             │ Punteggio     │
+├───────────────────────┼───────────────┤
+│ Ones                  │ 0 pt          │
+│ Twos                  │ 2 pt          │
+│ Threes                │ 6 pt          │
+│ Fours                 │ 4 pt          │
+│ Fives                 │ 5 pt          │
+│ Sixes                 │ 6 pt          │
+│ Full House            │ 26 pt         │
+│ Four of a Kind        │ 0 pt          │
+│ Little Straight       │ 30 pt         │
+│ Big Straight          │ 0 pt          │
+│ Choice                │ 26 pt         │
+│ Yacht                 │ 0 pt          │
+├───────────────────────┼───────────────┤
+│ Totale fase           │ 105           │
+└───────────────────────┴───────────────┘
+
+┌───────────────────────────────────────┐
+│  FASE: FREE CHOICE                  │
+├───────────────────────┬───────────────┤
+│ Categoria             │ Punteggio     │
+├───────────────────────┼───────────────┤
+│ Ones                  │ 0 pt          │
+│ Twos                  │ 2 pt          │
+│ Threes                │ 3 pt          │
+│ Fours                 │ 4 pt          │
+│ Fives                 │ 5 pt          │
+│ Sixes                 │ 12 pt         │
+│ Full House            │ 0 pt          │
+│ Four of a Kind        │ 0 pt          │
+│ Little Straight       │ 30 pt         │
+│ Big Straight          │ 0 pt          │
+│ Choice                │ 18 pt         │
+│ Yacht                 │ 0 pt          │
+├───────────────────────┼───────────────┤
+│ Totale fase           │ 74            │
+└───────────────────────┴───────────────┘
+
+╔═══════════════════════════════════════╗
+║  TOTALE GENERALE: 205                 ║
+╚═══════════════════════════════════════╝
+
